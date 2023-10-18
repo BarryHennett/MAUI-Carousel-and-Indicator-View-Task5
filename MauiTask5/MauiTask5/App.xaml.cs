@@ -7,6 +7,6 @@
         {
             InitializeComponent();
 
-            MainPage = new CarouselViewDemo();
+            MainPage = new ListViewDemo();
         }
     }
