@@ -16,6 +16,6 @@ public partial class ListViewDemo : ContentPage
             new CollectionItem{Title = "Title 5", Description = "Desc 5"},
             new CollectionItem{Title = "Title 6", Description = "Desc 6"}
         };
-        ListView.ItemsSource = items
+        ListView.ItemsSource = items;
     }
 }
