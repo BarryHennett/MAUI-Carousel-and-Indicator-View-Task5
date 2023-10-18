@@ -14,6 +14,9 @@
     <MauiXaml Update="Pages\CarouselViewDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Pages\CollectionViewDemo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Pages\ListViewDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

@@ -1,5 +1,4 @@
 using MauiTask5.Models;
-
 namespace MauiTask5.Pages;
 
 public partial class ListViewDemo : ContentPage
